@@ -2,15 +2,15 @@
 
 **Instructors**: Jesus Lozano-Fernandez & Mattia Giacomelli
 
-If you have any questions, contact us at jesus.lozano@ub.edu or mattia.giacomelli@bristol.ac.uk
+If you have any questions, contact us at jesus.lozano@ub.edu or mattia.giacomelli@ub.edu
 
 ***
 ## Context
 
 We will be working with an alignment composed by 50 orthologous genes concatenated from 16 bears, 4 individuals for each of the 4 species.
+![data](https://github.com/ppgcourseUB/ppgcourse2024_week1/assets/77489969/3cc83418-8490-4287-b80c-07a79c853452)
+![bear_names](https://github.com/ppgcourseUB/ppgcourse2024_week1/assets/77489969/48094fc9-9862-4f39-889f-fc58c6407b0c)
 
-![data](../Sensitivity_Analysis.Rosa_Fernandez_Gemma_Martinez/img/data.PNG)
-![bear_names](../Sensitivity_Analysis.Rosa_Fernandez_Gemma_Martinez/img/bear_names.png)
 
 ***
 ## Data files
